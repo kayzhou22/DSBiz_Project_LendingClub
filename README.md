@@ -5,7 +5,7 @@
 
 This repo is for our collaborative project evaluating **Lending Club**'s decision making on its current loan applicantions and providing suggestions to increase their profitability. 
 
-**Data Source**: Lending Club Data{https://www.lendingclub.com/info/download-data.action}
+**Data Source**: \href{https://www.lendingclub.com/info/download-data.action}{Lending Club Data}
 
 The three folders contain notebooks for <br/>
 **Initial Exploratory**, <br/>
