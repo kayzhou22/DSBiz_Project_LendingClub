@@ -1,13 +1,17 @@
 # DSBiz_Project_LendingClub
 
-Lending Club Data Analytic Project for DS for Business at NYU Stern 
+### Lending Club Data Analytic Project for DS for Business at NYU Stern 
 
 
-This repo is for our collaborative project analyzing Lending Club's decision making on its current loan applicantions.
+This repo is for our collaborative project evaluating **Lending Club**'s decision making on its current loan applicantions and providing suggestions to increase their profitability. 
 
-The three folders contain notebooks for Initial Exploratory, Data Preprocessing, Predictive Modeling, and Statistical Analysis.
+The three folders contain notebooks for <br/>
+**Initial Exploratory**, <br/>
+**Data Preprocessing**, <br/>
+**Predictive Modeling**, <br/>
+and **Statistical Analysis**<br/>.
 
-Our analyses in the final write up are based on the results of these notebooks.
+Our analyses and recommendations in the final write up are based on the results of these notebooks.
 
 
 ### Team Members:
@@ -17,4 +21,4 @@ Our analyses in the final write up are based on the results of these notebooks.
 
 
 ### Special Thanks to:
-**Prof. Foster Provost! **
+**Prof. Foster Provost** !
